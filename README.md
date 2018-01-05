@@ -14,11 +14,11 @@ El estudio de estas redes es multidisciplinario. Se necesitan conocimientos en b
 
 Contenido:
 
-  1. Introducción a Python (Notebook, Intro Python).
+  1. Introducción a Python (Notebook, [Intro Python](https://github.com/notblank/Curso-Redes-Met/blob/master/Intro%20Python%20.ipynb)).
 
-  2. Repaso de álgebra lineal y sistemas dinámicos lineales con Python (Notebook, Redes Simples).
+  2. Repaso de álgebra lineal y sistemas dinámicos lineales con Python (Notebook, [Redes Simples](https://github.com/notblank/Curso-Redes-Met/blob/master/Redes%20simples.ipynb)).
 
-  3. Redes metabólicas con CobraPy (Notebook, Intro Cobra).
+  3. Redes metabólicas con CobraPy (Notebook, [Intro Cobra](https://github.com/notblank/Curso-Redes-Met/blob/master/Intro%20Cobra.ipynb)).
 
 ## El curso no tiene pre-requisitos
 
