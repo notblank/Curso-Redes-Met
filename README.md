@@ -22,7 +22,7 @@ Contenido:
 
 ## Requisitos
 
-El curso está dirigido a cualquier persona que le interese aprender a programar y manipular redes metabólicas. De manera mas general el curso es una introducción al estudio de sistema dinámicos lineales y redes usando comutadoras. 
+El curso está dirigido a cualquier persona a la que le interese aprender a programar y manipular redes metabólicas. De manera mas general el curso es una introducción al estudio de sistema dinámicos lineales y redes usando comutadoras. 
 
 El curso no tiene requisitos. 
 
