@@ -29,3 +29,5 @@ De manera mas general el curso es una introducción al estudio de sistema dinám
 ## Instrucciones
 
 Antes de comenzar el curso lean el archivo Instalar python y librerías.
+
+- [x] Ya leyeron Instalar Puthon? 
