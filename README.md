@@ -5,7 +5,7 @@ En principio el genoma de un organismo contiene toda la información que describ
 
 Una red metabólica a escala genética comprende una lista de metabolitos, reacciones químicas y genes que pueden ser representadas matemáticamente. Esta representación generalmente es usada para calcular estados funcionales de la red que corresponden a funciones biológicas y a fenotipos observables. El principal objetivo de estos métodos es estudiar las relaciones entre el genoma y el fenotipo de una célula.
 
-El estudio de estas redes es multidisciplinario. Se necesitan conocimientos en bioquímica, biología molecular y biología de células. Además, la escala y la complejidad de las redes hace que una descripción matemática sea indispensable. Esta descripción requiere un conocimiento de profundo del álgebra lineal. Finalmente, las simulaciones computacionales son fundamentales para entender las relaciones genoma-fenotipo. Estas requieren una buena comprensión de como programar y resolver problemas de optimización con restricciones.
+El estudio de estas redes es multidisciplinario. Se necesitan conocimientos en bioquímica, biología molecular y biología de células. Además, la escala y la complejidad de las redes hace que una descripción matemática sea indispensable. Esta descripción requiere un conocimiento profundo del álgebra lineal. Finalmente, las simulaciones computacionales son fundamentales para entender las relaciones genoma-fenotipo. Estas requieren una buena comprensión de como programar y resolver problemas de optimización con restricciones.
 
 El primer objetivo de este curso es desarrollar las habilidades multidisciplinarias necesarias para representar, programar y estudiar una red metabólica. 
 
