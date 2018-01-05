@@ -13,8 +13,8 @@ El segundo objetivo es aprender a relacionar conceptos biológicos con conceptos
 
 Contenido: 
 
-  1 - Introducción a Python.
+  1 - Introducción a Python (Notebook, Intro Python).
   
-  2 - Repaso de álgebra lineal y sistemas dinámicos lineales con Python. 
+  2 - Repaso de álgebra lineal y sistemas dinámicos lineales con Python (Notebook, Redes Simples). 
   
-  3 - Redes metabólicas con CobraPy.
+  3 - Redes metabólicas con CobraPy (Notebook, Intro Cobra).
