@@ -29,3 +29,5 @@ De manera mas general el curso es una introducción al estudio de sistema dinám
 El curso no tiene pre-requisitos. 
 
 ## Instrucciones
+
+Antes de comenzar el curso lean el archivo Instalar python y librerías.
