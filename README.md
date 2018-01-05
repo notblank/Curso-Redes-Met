@@ -20,13 +20,11 @@ Contenido:
 
   3 - Redes metabólicas con CobraPy (Notebook, Intro Cobra).
 
-## Pre-requisitos
+## El curso no tiene pre-requisitos
 
 El curso está dirigido a cualquier persona a la que le interese aprender a programar y manipular redes metabólicas. 
 
 De manera mas general el curso es una introducción al estudio de sistema dinámicos lineales y redes usando comutadoras. Si bien las aplicaciones que vamos a estudiar son biológicas, el contenido es perfectamente aplicable al estudio del tráfico, redes sociales, etc. 
-
-> **El curso no tiene pre-requisitos.**
 
 ## Instrucciones
 
