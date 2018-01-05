@@ -28,6 +28,6 @@ De manera mas general el curso es una introducción al estudio de sistema dinám
 
 ## Instrucciones
 
-Antes de comenzar el curso lean el archivo Instalar python y librerías [Contribution guidelines for this project](Instalar python y librerías.ipynb).
+Antes de comenzar el curso lean el archivo Instalar python y librerías [Contribution guidelines for this project]().
 
 - [ ] Ya leyeron Instalar Python? 
