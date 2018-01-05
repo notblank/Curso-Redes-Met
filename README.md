@@ -28,6 +28,6 @@ De manera mas general el curso es una introducción al estudio de sistema dinám
 
 ## Instrucciones
 
-Antes de comenzar el curso lean el archivo Instalar python y librerías [Contribution guidelines for this project]().
+Antes de comenzar el curso lean el archivo [Instalar python y librerías](https://github.com/notblank/Curso-Redes-Met/blob/master/Instalar%20python%20y%20librer%C3%ADas.ipynb).
 
 - [ ] Ya leyeron Instalar Python? 
