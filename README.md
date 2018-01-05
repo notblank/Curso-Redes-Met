@@ -8,9 +8,11 @@ Una red metabólica a escala genética comprende una lista de metabolitos, reacc
 
 El estudio de estas redes es multidisciplinario. Se necesitan conocimientos en bioquímica, biología molecular y biología de células. Además, la escala y la complejidad de las redes hace que una descripción matemática sea indispensable. Esta descripción requiere un conocimiento profundo del álgebra lineal. Finalmente, las simulaciones computacionales son fundamentales para entender las relaciones genoma-fenotipo. Estas requieren una buena comprensión de como programar y resolver problemas de optimización con restricciones.
 
+`
 - El primer objetivo de este curso es desarrollar las habilidades multidisciplinarias necesarias para representar, programar y estudiar una red metabólica.
 
 - El segundo objetivo es aprender a relacionar conceptos biológicos con conceptos matemáticos en el contexto de redes metabólicas.
+`
 
 Contenido:
 
