@@ -14,8 +14,11 @@ El estudio de estas redes es multidisciplinario. Se necesitan conocimientos en b
 
 Contenido:
 
-  1- Introducción a Python (Notebook, Intro Python).
+  1 - Introducción a Python (Notebook, Intro Python).
 
-  2- Repaso de álgebra lineal y sistemas dinámicos lineales con Python (Notebook, Redes Simples).
+  2 - Repaso de álgebra lineal y sistemas dinámicos lineales con Python (Notebook, Redes Simples).
 
-  3- Redes metabólicas con CobraPy (Notebook, Intro Cobra).
+  3 - Redes metabólicas con CobraPy (Notebook, Intro Cobra).
+
+
+El curso está dirigido a cualquier persona que le interese aprender a programar y manipular redes metabólicas. De manera mas general el curso es una introducción al estudio de sistema dinámicos lineales y redes usando comutadoras. 
